@@ -16,6 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pradhanmani&show_icons=true&locale=en&layout=compact" alt="pradhanmani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradhanmani&show_icons=true&locale=en" alt="pradhanmani" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pradhanmani&show_icons=true&locale=en" alt="pradhanmani" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pradhanmani&" alt="pradhanmani" /></p> correct the file -->
